@@ -7,3 +7,5 @@
 お願いします
 
 See you later.
+
+Bye.
