@@ -10,6 +10,6 @@ See you later.
 
 Bye.
 
-Hello again, GitHub!
+Hello, GitHub!
 
 Good to see you again.
